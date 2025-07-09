@@ -420,4 +420,4 @@ export {
   e as maxRedirects,
   g as validProtocol,
 };
-//# sourceMappingURL=index.mjs.map
+//# sourceMappingURL=https://cdn.jsdelivr.net/gh/gustambolopez/vaporv3.69@main/index.mjs.map
